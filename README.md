@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Thomas
+![Header](./github-header-image.png)
 #### I'm currently starting my career as a software developer
 
 ##### Main Languages: C# / Java
