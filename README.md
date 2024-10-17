@@ -9,7 +9,7 @@
 
 - 🚀📚💻 I’m soon starting my cursus at 42Madrid and working on an Expense Management app.
 
-- 🛠️🖥️🐞 Learning about QA testing at work.
+- 🛠️🖥️🐞 Learning about DevOps and QA testing at work.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
