@@ -15,39 +15,34 @@
 
 ### 📋 Languages and Technologies
 
-<p align="left">
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  </a> 
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  </a> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://shields.io/badge/-C-3776AB?style=flat&logo=C">
-  </a> 
+![C](https://shields.io/badge/-C-3776AB?style=flat&logo=C)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
+**Utilities**
 
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>
-  
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-</p>
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Bash](https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+**IDE's**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ### 🎛️ Operating Systems
 
@@ -61,5 +56,8 @@
 </p>
 
 <br> 
-
-[![Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaswillix)](https://github.com/anuraghazra/github-readme-stats)
+<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaswillix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+/>
